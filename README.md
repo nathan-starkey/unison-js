@@ -1,5 +1,5 @@
 # Unison
-Unison is a small and simple library that enables cross-site communication on null-origin webpages. It acts as a wrapper for `window.postMessage` and `window.onMessage`, allowing this process to be smplified into asynchronous functions.
+Unison is a small and simple library that enables cross-site communication on null-origin webpages. It acts as a wrapper for `window.postMessage` and `window.onmessage`, allowing this process to be smplified into asynchronous functions.
 
 
 ## Usage
